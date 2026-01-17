@@ -1,0 +1,11 @@
+{
+    "templates": [
+      {
+        "id": "blog-simple",
+        "name": "Simple Blog",
+        "description": "A clean blog template",
+        "by": "Wisk Team",
+        "link": "https://wisk.cc"
+      }
+    ]
+  }
