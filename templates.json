@@ -27,6 +27,13 @@
       "description": "A simple weekly todo list template",
       "by": "Wisk Team",
       "link": "https://wisk.cc"
+    },
+    {
+      "id": "tech-blog",
+      "name": "Technical Blog",
+      "description": "A technical blog template exploring AI and data center infrastructure",
+      "by": "Wisk Team",
+      "link": "https://wisk.cc"
     }
   ]
 }
